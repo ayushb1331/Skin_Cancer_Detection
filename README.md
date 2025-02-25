@@ -1,3 +1,3 @@
 # Skin_Cancer_Detection
 
-Using CNN
+CNN based ML model to detect skin cancer.
